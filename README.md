@@ -1,0 +1,1 @@
+In this project I finetune llama-7b model to create a chatbot that is trained on medical dataset to provide educated answers to medical query. Using Quantisized Low-Rank Adaptation (QLORA) to finetune. 
